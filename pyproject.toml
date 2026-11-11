@@ -1,7 +1,7 @@
 [project]
 name = "tennis-prediction"
 version = "0.1.0"
-description = "Add your description here"
+description = "ATP tennis match outcome prediction with pre-match features, Decision Tree and CatBoost"
 readme = "README.md"
 authors = [
     { name = "K4mp47", email = "campagnoloalberto5@gmail.com" }
